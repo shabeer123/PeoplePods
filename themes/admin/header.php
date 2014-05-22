@@ -1,6 +1,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-			<title><? echo $POD->libOptions('siteName'); ?> - PeoplePods Dashboard</title>
+			<title><? echo $POD->libOptions('Hostarms'); ?> - PeoplePods Dashboard</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 			<link rel="icon" href="<? $POD->templateDir(); ?>/img/peoplepods_favicon.png" type="image/x-icon">
